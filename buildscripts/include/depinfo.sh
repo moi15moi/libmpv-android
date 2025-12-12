@@ -17,7 +17,7 @@ v_freetype=2-14-0
 v_mbedtls=3.6.4
 v_libplacebo=7.349.0
 v_dav1d=1.5.1
-v_ffmpeg=8.0
+v_ffmpeg=8.0.1
 v_mpv=0.39.0
 
 
