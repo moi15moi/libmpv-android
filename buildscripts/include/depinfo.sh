@@ -9,7 +9,7 @@ v_sdk_build_tools=36.1.0
 v_cmake=4.1.2
 
 v_lua=5.2.4
-v_libunibreak=6_0
+v_libunibreak=6_1
 v_libass=0.17.3
 v_harfbuzz=12.1.0
 v_fribidi=1.0.15
